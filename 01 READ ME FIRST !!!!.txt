@@ -13,8 +13,6 @@ WITHOUT THE DATABASE THE PROJECT WON'T RUN.
 
 >>DATABASE FILE IS INSIDE "Database (MySQL)" FOLDER!
 
-***REQUIREMENTS***
-
 - xampp
 - mysql-connector-net-6.4.4.msi
 - mysql-connector-odbc-5.1.9-win32.msi
